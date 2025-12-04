@@ -1,6 +1,6 @@
 <?php
 // Database configuration
-define('DB_HOST', '127.0.0.1'); // Use 127.0.0.1 to force TCP/IP connection
+define('DB_HOST', '127.0.0.1'); // Use 127.0.0.1 to force TCP/IP connection (works with XAMPP)
 define('DB_PORT', 3306); // MySQL port
 define('DB_USER', 'root');
 define('DB_PASS', '');
