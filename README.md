@@ -228,14 +228,15 @@ This project is created for educational purposes as part of a Web Term Project.
 
 ## Author
 
-[Your Name]
-[Student ID: Your Student ID]
+Sujal Malankiya
+249567880
 
 ## Submission Date
 
-[Date]
+5th december 2025
 
 ---
 
 **Note:** This is a development project. For production deployment, additional security measures, error handling, and optimizations should be implemented.
+
 
